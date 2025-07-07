@@ -18,4 +18,3 @@ npm i artplayer@5.2.2
 ### 获取方式 通过 nascore.eu.org 官网
 
 https://nascore.eu.org/
-# nascore_static
